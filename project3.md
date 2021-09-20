@@ -47,3 +47,22 @@
 
 ![mkdir routes](images/mkdir-routes.PNG)
 
+## create a file api.js ##
+
+![vim api](images/vim-api.PNG)
+
+# MODELS #
+
+## Mongoose ##
+
+![install mongoose](images/install-mongoose.PNG)
+
+![const mongoose](images/const-mongoose.PNG)
+
+![update routes](images/update-routes.PNG)
+
+# MONGODB DATABASE #
+
+![MongoDB database](images/MongoDB-database.PNG)
+
+![access database](images/access-database.PNG)
