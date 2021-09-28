@@ -66,3 +66,18 @@
 ![MongoDB database](images/MongoDB-database.PNG)
 
 ![access database](images/access-database.PNG)
+
+![database-connected](images/database-connected.PNG)
+
+![install postman](images/install-postman.PNG)
+
+![get request](images/get-request.PNG)
+
+![database todos](images/database-todos.PNG)
+
+# FRONTEND CREATION #
+
+![install react app](images/install-react-app.PNG)
+
+![install react app](images/npm-run-dev.PNG)
+![To DO](images/to-do.PNG)
